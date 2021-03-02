@@ -1,5 +1,5 @@
 # zed2nvidia3d
-Display realtime video collected by zed camera on NVIDIA 3D device.
+Display realtime video collected by zed camera on NVIDIA 3D device.  
 
 This is Yongzhen's graduate design at TYUT. Write at 2019.5. Upload at 2020.12.
 Language    : C++
