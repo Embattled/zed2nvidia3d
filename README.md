@@ -7,6 +7,7 @@ This is Yongzhen's graduate design at TYUT. Write at 2019.5. Upload at 2020.12.
 * Libary      : OpenCV 3.4.5, ZED SDK 2.8, NVAPI
 * Referance   : OpenCV_Samples
 
+Execution instruction:
 * Make sure your host which connect with NVIDIA 3D VISION have appropriate monitor (At least 120HZ support).
 * `4.RunLocal` to run program on your local host, make sure your PC have connected with 3D VISION and ZED.
 * `5.*` is an LAN version, `NetSend` should executed at host which connected with ZED camera, and `NetReceive` should executed at host which connected with NVIDIA 3D VISION.
